@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 He/Him
-18y
+19y
 Taiwan/Tainan
 
-- 🌱 I’m currently learning Java, C++, Web
+About Me: https://xingyantw.github.io/about/
+
+- 🌱 I’m currently learning Java, C#, JavaScript
 
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,cs,html,css,dotnet,js,unity&theme=light)](https://skillicons.dev)
 
