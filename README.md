@@ -40,7 +40,6 @@
 
 | Project | Description | Language |
 |---|---|---|
-| [Core](https://github.com/xydesu/Core) | Minecraft RPG 核心插件：自訂生物、物品、GUI 與玩家數據系統 | Java |
 | [StopTimer](https://github.com/xydesu/StopTimer) | 伺服器自動關機倒數插件，支援 Discord 通知與 PlaceholderAPI | Java |
 | [Arcade-Update-Bot](https://github.com/xydesu/Arcade-Update-Bot) | maimai DX、Ongeki、Chunithm 更新通知機器人 | JavaScript |
 | [SaltBot](https://github.com/xydesu/SaltBot) | maimai DX 相關功能的 Discord 機器人，包含查歌與小遊戲 | JavaScript |
