@@ -49,14 +49,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xydesu&theme=dracula&row=1&no-bg=true&no-frame=true&margin-w=8" alt="Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
