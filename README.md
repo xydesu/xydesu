@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=xydesu&fontSize=40&fontColor=fff&animation=twinkling" width="100%" alt="header" />
-
 <h1 align="center">Hi, I'm xydesu 👋</h1>
 
 <p align="center">
@@ -91,7 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/@xydesu?name=xydesu&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
+  <img src="https://count.getloli.com/@xydesu?name=xydesu&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="footer" />
