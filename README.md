@@ -9,11 +9,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xydesu"><img src="https://skillicons.dev/icons?i=github" height="24" alt="GitHub" /></a>
+  <a href="https://github.com/xydesu">
+    <img src="https://img.shields.io/badge/GitHub-xydesu-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   &nbsp;
-  <a href="https://twitter.com/tw_xing"><img src="https://skillicons.dev/icons?i=twitter" height="24" alt="Twitter" /></a>
+  <a href="https://twitter.com/tw_xing">
+    <img src="https://img.shields.io/badge/Twitter-tw__xing-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
   &nbsp;
-  <a href="https://xydesu.github.io/about/"><img src="https://img.shields.io/badge/Blog-無用的發洩地-blue?style=flat-square" alt="Blog" /></a>
+  <img src="https://img.shields.io/badge/Discord-sunaookami__shiroko-5865F2?style=flat-square&logo=discord&logoColor=white" title="Discord: sunaookami_shiroko" alt="Discord" />
+  &nbsp;
+  <a href="https://xydesu.github.io/about/">
+    <img src="https://img.shields.io/badge/Blog-無用的發洩地-blue?style=flat-square&logo=jekyll&logoColor=white" alt="Blog" />
+  </a>
 </p>
 
 ---
