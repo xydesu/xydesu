@@ -80,5 +80,5 @@
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/@xydesu?name=xydesu&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
+  <img src="https://count.getloli.com/@xydesu?name=xydesu&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1" alt="Visitor Count" />
 </p>
