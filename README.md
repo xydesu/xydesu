@@ -12,17 +12,17 @@
 
 <p align="center">
   <a href="https://github.com/xydesu">
-    <img src="https://img.shields.io/badge/GitHub-xydesu-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-xydesu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://twitter.com/tw_xing">
-    <img src="https://img.shields.io/badge/Twitter-tw__xing-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-tw__xing-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Discord-sunaookami__shiroko-5865F2?style=flat-square&logo=discord&logoColor=white" title="Discord: sunaookami_shiroko" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-sunaookami__shiroko-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="Discord: sunaookami_shiroko" alt="Discord" />
   &nbsp;
   <a href="https://xydesu.github.io/about/">
-    <img src="https://img.shields.io/badge/Blog-無用的發洩地-blue?style=flat-square&logo=jekyll&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-無用的發洩地-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" />
   </a>
 </p>
 
@@ -91,7 +91,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=xydesu.xydesu&left_color=blueviolet&right_color=gray&left_text=visitors" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=xydesu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="footer" />
