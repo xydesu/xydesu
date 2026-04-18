@@ -91,7 +91,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xydesu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://count.getloli.com/@xydesu?name=xydesu&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="footer" />
