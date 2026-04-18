@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=xydesu&fontSize=40&fontColor=fff&animation=twinkling" width="100%" alt="header" />
+
 <h1 align="center">Hi, I'm xydesu 👋</h1>
 
 <p align="center">
@@ -50,6 +52,14 @@
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xydesu&theme=dracula&row=1&no-bg=true&no-frame=true&margin-w=8" alt="Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -57,3 +67,31 @@
   &nbsp;
   <img src="https://github-readme-stats-nu-rouge-34.vercel.app/api/top-langs/?username=xydesu&theme=material-palenight&show_icons=true&layout=compact" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xydesu&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xydesu&theme=material-palenight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xydesu/xydesu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xydesu/xydesu/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/xydesu/xydesu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xydesu.xydesu&left_color=blueviolet&right_color=gray&left_text=visitors" alt="Visitor Count" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" alt="footer" />
